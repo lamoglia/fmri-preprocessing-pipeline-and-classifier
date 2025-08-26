@@ -1,0 +1,9 @@
+[project]
+name = "phenotypic-data-extractor"
+version = "0.1.0"
+description = "Extrai e organiza dados fenotípicos do dataset ABIDE"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas>=2.3.2",
+]

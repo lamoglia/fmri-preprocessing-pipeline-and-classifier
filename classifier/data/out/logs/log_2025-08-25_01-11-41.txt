@@ -1,0 +1,13 @@
+[2025-08-25T01:11:41+00:00] Experiment name: /data/out/output_dir/top10-v3/v2_group1_dim64_fwhm2_resamp4_fixthr30_bbt11_maconcat_rm1/20250825_011132/training_input
+[2025-08-25T01:11:41+00:00] Experiment date: 2025_08_25_01_11_41
+[2025-08-25T01:11:41+00:00] /data/out/output_dir/top10-v3/v2_group1_dim64_fwhm2_resamp4_fixthr30_bbt11_maconcat_rm1/20250825_011132/training_input/fcpc_training_data.csv
+[2025-08-25T01:11:41+00:00] Converting CSV to ARFF...
+[2025-08-25T01:11:41+00:00] Conversion complete.
+[2025-08-25T01:11:41+00:00] 
+[2025-08-25T01:11:41+00:00] Keeping only attributes 1-20 on dataset...
+[2025-08-25T01:11:42+00:00] Running classifier: weka.classifiers.functions.MultilayerPerceptron -H a,a (MultilayerPerceptron__H_a_a)
+[2025-08-25T01:11:42+00:00] java -cp /weka/weka-3-8-6/weka.jar weka.Run weka.classifiers.functions.MultilayerPerceptron -H a,a -t /data/out/output_dir/top10-v3/v2_group1_dim64_fwhm2_resamp4_fixthr30_bbt11_maconcat_rm1/20250825_011132/weka_results/input_variations/fcpc/feat_1-20.arff -x 10 -v
+[2025-08-25T01:11:45+00:00] Results saved to /data/out/output_dir/top10-v3/v2_group1_dim64_fwhm2_resamp4_fixthr30_bbt11_maconcat_rm1/20250825_011132/weka_results/output_variations/fcpc/results_MultilayerPerceptron__H_a_a_feat_1-20_10-fold.txt
+[2025-08-25T01:11:45+00:00] 
+[2025-08-25T01:11:45+00:00] Done.
+[2025-08-25T01:11:45+00:00] 

@@ -1,0 +1,20 @@
+# BET
+BET_FRACTIONAL_INTENSITY_THRESHOLD=0.3
+BET_VERTICAL_GRADIENT_THRESHOLD=0
+# FEAT
+FEAT_SPATIAL_SMOOTHING_FWHM=6.0
+FEAT_RESAMPLING_RESOLUTION_MM=4
+FEAT_DELETE_VOLUMES=3
+FEAT_BRAIN_BACKGROUND_THRESHOLD=10
+# MELODIC
+MELODIC_DIMENSIONALITY_REDUCTION=25
+MELODIC_APPROACH="concat"
+# Subject selection file
+SUBJECTS="participants.txt"
+# FIX
+# In the FIX command-line call, the number is a threshold between 0 and 100 - a lower value will result in more conservative clean-up 
+# (i.e. less chance of good components being removed), whereas a higher value will result in more aggressive clean up.
+FIX_THRESHOLD_PARAMETER=30
+FIX_REGRESS_MOTION=1
+# DUAL REGRESSION
+DR_NORMALIZE=1

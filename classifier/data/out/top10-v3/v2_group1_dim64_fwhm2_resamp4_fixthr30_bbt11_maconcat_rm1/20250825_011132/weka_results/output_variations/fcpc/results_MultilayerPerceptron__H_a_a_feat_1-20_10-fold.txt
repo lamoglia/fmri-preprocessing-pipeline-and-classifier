@@ -1,0 +1,479 @@
+
+Options: -H a,a 
+
+=== Classifier model (full training set) ===
+
+Sigmoid Node 0
+    Inputs    Weights
+    Threshold    5.708067308724673
+    Node 13    -2.170097795466166
+    Node 14    -1.8838606724132658
+    Node 15    -1.9187944476554744
+    Node 16    -1.921117597584424
+    Node 17    -2.018786873262218
+    Node 18    -2.2645497755892374
+    Node 19    -1.844402105239316
+    Node 20    -2.1917402870192504
+    Node 21    -1.8782415016894136
+    Node 22    -1.9131472463229255
+    Node 23    -2.174876566066041
+Sigmoid Node 1
+    Inputs    Weights
+    Threshold    -5.70674056263219
+    Node 13    2.1762175524273717
+    Node 14    1.8407701349229044
+    Node 15    1.9286941780067735
+    Node 16    1.8655208849213574
+    Node 17    2.0432842215409512
+    Node 18    2.22474967635627
+    Node 19    1.8290542283326843
+    Node 20    2.2423549646656515
+    Node 21    1.8463401887673445
+    Node 22    1.9235101169582098
+    Node 23    2.2407176921096936
+Sigmoid Node 2
+    Inputs    Weights
+    Threshold    -0.16300436437820962
+    Attrib fc_corr_4_17    0.02035673172478051
+    Attrib pc_corr_21_60    1.054129782909496
+    Attrib fc_corr_15_43    -1.4095174622759858
+    Attrib fc_corr_36_46    0.08376238257782784
+    Attrib pc_corr_20_39    0.3104035613742279
+    Attrib pc_corr_6_34    -0.9701060540259253
+    Attrib fc_corr_2_40    0.187758936563453
+    Attrib pc_corr_1_17    -1.18164738048568
+    Attrib fc_corr_19_54    1.3606689793132953
+    Attrib fc_corr_6_40    -0.6903452747023182
+    Attrib fc_corr_2_50    -0.43959969374549684
+    Attrib pc_corr_6_46    -1.4730577304873784
+    Attrib fc_corr_14_45    -0.8475871111832607
+    Attrib fc_corr_20_56    -1.2427064247045783
+    Attrib fc_corr_36_53    -1.0445797080380914
+    Attrib pc_corr_38_59    0.5558408266197802
+    Attrib pc_corr_8_62    1.1629806079131702
+    Attrib fc_corr_13_52    -0.6029923842471888
+    Attrib fc_corr_38_45    0.15764123930189414
+    Attrib pc_corr_33_59    0.7397861718547375
+Sigmoid Node 3
+    Inputs    Weights
+    Threshold    -0.07035850578343206
+    Attrib fc_corr_4_17    -0.08629841587718881
+    Attrib pc_corr_21_60    0.9872669956510417
+    Attrib fc_corr_15_43    -1.3466387359739918
+    Attrib fc_corr_36_46    0.08004311548012503
+    Attrib pc_corr_20_39    0.29006242133706134
+    Attrib pc_corr_6_34    -1.0153196118129644
+    Attrib fc_corr_2_40    0.16689653206890215
+    Attrib pc_corr_1_17    -1.1978368779637933
+    Attrib fc_corr_19_54    1.2906185223221736
+    Attrib fc_corr_6_40    -0.6746527205656367
+    Attrib fc_corr_2_50    -0.4458201886084303
+    Attrib pc_corr_6_46    -1.404504441039733
+    Attrib fc_corr_14_45    -0.7705989756979512
+    Attrib fc_corr_20_56    -1.2708844928044434
+    Attrib fc_corr_36_53    -1.0233675103889381
+    Attrib pc_corr_38_59    0.5596229169755588
+    Attrib pc_corr_8_62    1.079043336805766
+    Attrib fc_corr_13_52    -0.5495451412553408
+    Attrib fc_corr_38_45    0.20405287564459756
+    Attrib pc_corr_33_59    0.7444534935996668
+Sigmoid Node 4
+    Inputs    Weights
+    Threshold    -0.22415775096985222
+    Attrib fc_corr_4_17    -0.12809558499374893
+    Attrib pc_corr_21_60    0.8385385583913665
+    Attrib fc_corr_15_43    -1.0170886011438995
+    Attrib fc_corr_36_46    0.009976402048648969
+    Attrib pc_corr_20_39    0.23549935518222487
+    Attrib pc_corr_6_34    -0.811646203473582
+    Attrib fc_corr_2_40    0.017724362718700246
+    Attrib pc_corr_1_17    -0.9926070454055478
+    Attrib fc_corr_19_54    0.9835031337921623
+    Attrib fc_corr_6_40    -0.5712017080493091
+    Attrib fc_corr_2_50    -0.417576416445868
+    Attrib pc_corr_6_46    -1.1461146610675774
+    Attrib fc_corr_14_45    -0.6140868165034382
+    Attrib fc_corr_20_56    -1.012738773382108
+    Attrib fc_corr_36_53    -0.7819226712654327
+    Attrib pc_corr_38_59    0.423781100787932
+    Attrib pc_corr_8_62    0.8560689004804808
+    Attrib fc_corr_13_52    -0.4694171734018015
+    Attrib fc_corr_38_45    0.2226046800417805
+    Attrib pc_corr_33_59    0.6200658256864454
+Sigmoid Node 5
+    Inputs    Weights
+    Threshold    -0.20705782777915377
+    Attrib fc_corr_4_17    -0.015386218065788411
+    Attrib pc_corr_21_60    0.95845198680292
+    Attrib fc_corr_15_43    -1.262376114977478
+    Attrib fc_corr_36_46    0.05893775927141288
+    Attrib pc_corr_20_39    0.2530577103049787
+    Attrib pc_corr_6_34    -0.9460473017759351
+    Attrib fc_corr_2_40    0.17858834638483254
+    Attrib pc_corr_1_17    -1.1159659587928619
+    Attrib fc_corr_19_54    1.2966310217800356
+    Attrib fc_corr_6_40    -0.5890211636612326
+    Attrib fc_corr_2_50    -0.4595113167219784
+    Attrib pc_corr_6_46    -1.322167907313583
+    Attrib fc_corr_14_45    -0.7304221166606689
+    Attrib fc_corr_20_56    -1.1058734427581678
+    Attrib fc_corr_36_53    -0.9830990418978222
+    Attrib pc_corr_38_59    0.5212284796668232
+    Attrib pc_corr_8_62    1.0597422460787667
+    Attrib fc_corr_13_52    -0.5019920900001426
+    Attrib fc_corr_38_45    0.12372109611394608
+    Attrib pc_corr_33_59    0.6506118878874073
+Sigmoid Node 6
+    Inputs    Weights
+    Threshold    -0.2184362943947699
+    Attrib fc_corr_4_17    0.023000345818299912
+    Attrib pc_corr_21_60    0.9757815441671004
+    Attrib fc_corr_15_43    -1.3673002002509285
+    Attrib fc_corr_36_46    0.10184597992976711
+    Attrib pc_corr_20_39    0.2628988132152679
+    Attrib pc_corr_6_34    -0.9767577450818391
+    Attrib fc_corr_2_40    0.19220156876186553
+    Attrib pc_corr_1_17    -1.1237907887513816
+    Attrib fc_corr_19_54    1.3782619495592916
+    Attrib fc_corr_6_40    -0.6478872603545804
+    Attrib fc_corr_2_50    -0.47092544717797036
+    Attrib pc_corr_6_46    -1.429060394649446
+    Attrib fc_corr_14_45    -0.848854775903981
+    Attrib fc_corr_20_56    -1.1692499509899987
+    Attrib fc_corr_36_53    -1.0202564438440325
+    Attrib pc_corr_38_59    0.5732986365284684
+    Attrib pc_corr_8_62    1.1381006721552747
+    Attrib fc_corr_13_52    -0.5744078052550163
+    Attrib fc_corr_38_45    0.14308673661788499
+    Attrib pc_corr_33_59    0.6927492399291506
+Sigmoid Node 7
+    Inputs    Weights
+    Threshold    -0.3320953766290579
+    Attrib fc_corr_4_17    -0.27173927375909884
+    Attrib pc_corr_21_60    0.7214509088855784
+    Attrib fc_corr_15_43    -0.7286496749584196
+    Attrib fc_corr_36_46    -0.01758143422146239
+    Attrib pc_corr_20_39    0.1827474881557531
+    Attrib pc_corr_6_34    -0.740084747265219
+    Attrib fc_corr_2_40    -0.08512898051610175
+    Attrib pc_corr_1_17    -0.8518376674108714
+    Attrib fc_corr_19_54    0.6974927931710168
+    Attrib fc_corr_6_40    -0.5372363252730675
+    Attrib fc_corr_2_50    -0.4400613107443853
+    Attrib pc_corr_6_46    -0.8883937323314498
+    Attrib fc_corr_14_45    -0.42632044414805575
+    Attrib fc_corr_20_56    -0.8327554165892905
+    Attrib fc_corr_36_53    -0.6442173316934998
+    Attrib pc_corr_38_59    0.3348697260834711
+    Attrib pc_corr_8_62    0.6425131917787636
+    Attrib fc_corr_13_52    -0.4268800160873143
+    Attrib fc_corr_38_45    0.3475246242720208
+    Attrib pc_corr_33_59    0.5839773662788433
+Sigmoid Node 8
+    Inputs    Weights
+    Threshold    -0.16788122892058074
+    Attrib fc_corr_4_17    -0.015793285035790375
+    Attrib pc_corr_21_60    1.0339857297198034
+    Attrib fc_corr_15_43    -1.3856974545657232
+    Attrib fc_corr_36_46    0.0744372078264463
+    Attrib pc_corr_20_39    0.27395521410988916
+    Attrib pc_corr_6_34    -1.0013974518688111
+    Attrib fc_corr_2_40    0.23022411880053353
+    Attrib pc_corr_1_17    -1.1778722924782739
+    Attrib fc_corr_19_54    1.4003197251406279
+    Attrib fc_corr_6_40    -0.6634403081640166
+    Attrib fc_corr_2_50    -0.46189820600416215
+    Attrib pc_corr_6_46    -1.4368122591421362
+    Attrib fc_corr_14_45    -0.8210867733493443
+    Attrib fc_corr_20_56    -1.204948816848035
+    Attrib fc_corr_36_53    -1.0497025816180832
+    Attrib pc_corr_38_59    0.5613515427434724
+    Attrib pc_corr_8_62    1.1370648734145286
+    Attrib fc_corr_13_52    -0.5582784416622733
+    Attrib fc_corr_38_45    0.1575029188715257
+    Attrib pc_corr_33_59    0.681126322390211
+Sigmoid Node 9
+    Inputs    Weights
+    Threshold    -0.2881521117455672
+    Attrib fc_corr_4_17    -0.22936245660240714
+    Attrib pc_corr_21_60    0.7702343496099507
+    Attrib fc_corr_15_43    -0.853263123405596
+    Attrib fc_corr_36_46    3.5384557968052714E-4
+    Attrib pc_corr_20_39    0.1770668456522074
+    Attrib pc_corr_6_34    -0.7892568588814219
+    Attrib fc_corr_2_40    -0.026824200135332883
+    Attrib pc_corr_1_17    -0.8826638114629464
+    Attrib fc_corr_19_54    0.8961946555857848
+    Attrib fc_corr_6_40    -0.5406770784131028
+    Attrib fc_corr_2_50    -0.41657040421872243
+    Attrib pc_corr_6_46    -1.0348164399647282
+    Attrib fc_corr_14_45    -0.5588705856157906
+    Attrib fc_corr_20_56    -0.8872285939139054
+    Attrib fc_corr_36_53    -0.7031642779683719
+    Attrib pc_corr_38_59    0.391678064340149
+    Attrib pc_corr_8_62    0.7675909479603991
+    Attrib fc_corr_13_52    -0.42558060127623376
+    Attrib fc_corr_38_45    0.23459961022407355
+    Attrib pc_corr_33_59    0.597972978195834
+Sigmoid Node 10
+    Inputs    Weights
+    Threshold    -0.1921985225589655
+    Attrib fc_corr_4_17    -0.29384913537572155
+    Attrib pc_corr_21_60    0.9078746763608347
+    Attrib fc_corr_15_43    -0.9570933212435438
+    Attrib fc_corr_36_46    0.009993207953921744
+    Attrib pc_corr_20_39    0.2363958281948365
+    Attrib pc_corr_6_34    -0.7997380398733048
+    Attrib fc_corr_2_40    -0.02442498499778164
+    Attrib pc_corr_1_17    -0.9713222252937918
+    Attrib fc_corr_19_54    0.8694736137486985
+    Attrib fc_corr_6_40    -0.6334139809156404
+    Attrib fc_corr_2_50    -0.4775515098820533
+    Attrib pc_corr_6_46    -1.085318618202004
+    Attrib fc_corr_14_45    -0.5572533288247846
+    Attrib fc_corr_20_56    -1.0350828603837812
+    Attrib fc_corr_36_53    -0.7868696464616894
+    Attrib pc_corr_38_59    0.40150310207640943
+    Attrib pc_corr_8_62    0.7182055105797783
+    Attrib fc_corr_13_52    -0.4572294767488821
+    Attrib fc_corr_38_45    0.40432944654314884
+    Attrib pc_corr_33_59    0.7073837083098105
+Sigmoid Node 11
+    Inputs    Weights
+    Threshold    -0.17525407180637567
+    Attrib fc_corr_4_17    -0.17034125370782793
+    Attrib pc_corr_21_60    0.8303314351957861
+    Attrib fc_corr_15_43    -1.1365066424252657
+    Attrib fc_corr_36_46    0.07751326011404627
+    Attrib pc_corr_20_39    0.20649716049342834
+    Attrib pc_corr_6_34    -0.879372543314886
+    Attrib fc_corr_2_40    0.060792943342700065
+    Attrib pc_corr_1_17    -1.0098632308185398
+    Attrib fc_corr_19_54    1.0499827995117206
+    Attrib fc_corr_6_40    -0.5566200126507346
+    Attrib fc_corr_2_50    -0.43811289821908617
+    Attrib pc_corr_6_46    -1.1974500675419828
+    Attrib fc_corr_14_45    -0.6955693067644914
+    Attrib fc_corr_20_56    -1.064095758528889
+    Attrib fc_corr_36_53    -0.864142217690254
+    Attrib pc_corr_38_59    0.4690801923265421
+    Attrib pc_corr_8_62    0.8706909234555561
+    Attrib fc_corr_13_52    -0.48192556201096237
+    Attrib fc_corr_38_45    0.2631305380680626
+    Attrib pc_corr_33_59    0.65603874067478
+Sigmoid Node 12
+    Inputs    Weights
+    Threshold    -0.12982343192891074
+    Attrib fc_corr_4_17    -0.3669901259230353
+    Attrib pc_corr_21_60    0.9532059075920711
+    Attrib fc_corr_15_43    -0.9317883332948907
+    Attrib fc_corr_36_46    -0.030577343262398398
+    Attrib pc_corr_20_39    0.22399486722890796
+    Attrib pc_corr_6_34    -0.8456129623016503
+    Attrib fc_corr_2_40    -0.08967053206554501
+    Attrib pc_corr_1_17    -1.0167825913912079
+    Attrib fc_corr_19_54    0.8692113549229677
+    Attrib fc_corr_6_40    -0.7447595712878295
+    Attrib fc_corr_2_50    -0.5416709748649522
+    Attrib pc_corr_6_46    -1.1233891152841733
+    Attrib fc_corr_14_45    -0.524849640526597
+    Attrib fc_corr_20_56    -1.0826113635390648
+    Attrib fc_corr_36_53    -0.721118345513816
+    Attrib pc_corr_38_59    0.4400069208905767
+    Attrib pc_corr_8_62    0.677567016070358
+    Attrib fc_corr_13_52    -0.47642951288423396
+    Attrib fc_corr_38_45    0.4873522693356963
+    Attrib pc_corr_33_59    0.758478635461682
+Sigmoid Node 13
+    Inputs    Weights
+    Threshold    1.5880610418703727
+    Node 2    -0.9450694826798209
+    Node 3    -0.9751290342502783
+    Node 4    -0.6843758696547286
+    Node 5    -0.8181591800061628
+    Node 6    -0.9111920152745213
+    Node 7    -0.5037016459249158
+    Node 8    -0.9945492408514625
+    Node 9    -0.5548891831160389
+    Node 10    -0.7084520089464562
+    Node 11    -0.7422580876957318
+    Node 12    -0.7662705028851399
+Sigmoid Node 14
+    Inputs    Weights
+    Threshold    1.155821731230979
+    Node 2    -0.8183482866255414
+    Node 3    -0.8515023153427215
+    Node 4    -0.6053863005432931
+    Node 5    -0.7795131988414348
+    Node 6    -0.8650245835460593
+    Node 7    -0.48733478061643126
+    Node 8    -0.8217296273942146
+    Node 9    -0.547297325131341
+    Node 10    -0.6260796313361771
+    Node 11    -0.6874834499745373
+    Node 12    -0.6364138291815689
+Sigmoid Node 15
+    Inputs    Weights
+    Threshold    1.2350465162023374
+    Node 2    -0.9044804706501745
+    Node 3    -0.8854241330468082
+    Node 4    -0.6220269399221737
+    Node 5    -0.7804901384311139
+    Node 6    -0.8088147333151524
+    Node 7    -0.46570761605048316
+    Node 8    -0.8659317640659928
+    Node 9    -0.5267949058372045
+    Node 10    -0.6092916383956771
+    Node 11    -0.7071294242444854
+    Node 12    -0.6960242374263773
+Sigmoid Node 16
+    Inputs    Weights
+    Threshold    1.2131596957570643
+    Node 2    -0.8443618185872855
+    Node 3    -0.8235514363511154
+    Node 4    -0.6206894045868684
+    Node 5    -0.7669493849010374
+    Node 6    -0.8722334445778875
+    Node 7    -0.5230587531219784
+    Node 8    -0.8267780255156292
+    Node 9    -0.5487355900671455
+    Node 10    -0.6508613510816347
+    Node 11    -0.7345657491655349
+    Node 12    -0.6403789227998297
+Sigmoid Node 17
+    Inputs    Weights
+    Threshold    1.3855685638156612
+    Node 2    -0.9457534314014977
+    Node 3    -0.8869548947222557
+    Node 4    -0.670352380650302
+    Node 5    -0.8138438132343242
+    Node 6    -0.8710142180027332
+    Node 7    -0.5223508873137631
+    Node 8    -0.923608951216096
+    Node 9    -0.5266687960580969
+    Node 10    -0.6337090153871915
+    Node 11    -0.6801597960132122
+    Node 12    -0.7023369702458532
+Sigmoid Node 18
+    Inputs    Weights
+    Threshold    1.6711246383565201
+    Node 2    -1.0244894343372675
+    Node 3    -0.9669290338886588
+    Node 4    -0.6604870397407916
+    Node 5    -0.8426767361204327
+    Node 6    -0.9822233997082152
+    Node 7    -0.4825573580348951
+    Node 8    -0.9962088192151302
+    Node 9    -0.6086810135020018
+    Node 10    -0.705352636112913
+    Node 11    -0.723803813564559
+    Node 12    -0.7739796274294004
+Sigmoid Node 19
+    Inputs    Weights
+    Threshold    1.1295054540549776
+    Node 2    -0.8090424189129608
+    Node 3    -0.7811062573945833
+    Node 4    -0.6702372287081997
+    Node 5    -0.7999731872282819
+    Node 6    -0.7977507428836035
+    Node 7    -0.4727652611456503
+    Node 8    -0.8751840673265906
+    Node 9    -0.5595543310039659
+    Node 10    -0.5890205762928645
+    Node 11    -0.6528333735744695
+    Node 12    -0.6750821597340844
+Sigmoid Node 20
+    Inputs    Weights
+    Threshold    1.6455661454502022
+    Node 2    -0.9945783147184404
+    Node 3    -0.9514065462646326
+    Node 4    -0.6489813117062365
+    Node 5    -0.9007472239245858
+    Node 6    -0.9425283643019424
+    Node 7    -0.47477883146192085
+    Node 8    -0.9867132854216958
+    Node 9    -0.5862756298962402
+    Node 10    -0.6883640600537629
+    Node 11    -0.7944922717272896
+    Node 12    -0.7365979969003515
+Sigmoid Node 21
+    Inputs    Weights
+    Threshold    1.167512468044019
+    Node 2    -0.8154176587315876
+    Node 3    -0.7841374769718735
+    Node 4    -0.6616259085935058
+    Node 5    -0.7776244058737113
+    Node 6    -0.8589578991170045
+    Node 7    -0.46689154501045493
+    Node 8    -0.8269530547846926
+    Node 9    -0.5774357446225115
+    Node 10    -0.6416810305706356
+    Node 11    -0.695085671897509
+    Node 12    -0.6583231884014462
+Sigmoid Node 22
+    Inputs    Weights
+    Threshold    1.232007434105972
+    Node 2    -0.9290945385838896
+    Node 3    -0.8939195011161585
+    Node 4    -0.620503457627961
+    Node 5    -0.7547157375086617
+    Node 6    -0.830884598481597
+    Node 7    -0.45560797657938046
+    Node 8    -0.846661186696961
+    Node 9    -0.5490875498778104
+    Node 10    -0.685384885541646
+    Node 11    -0.6504387379974763
+    Node 12    -0.6488256588765771
+Sigmoid Node 23
+    Inputs    Weights
+    Threshold    1.633437377836269
+    Node 2    -1.0217232472942126
+    Node 3    -0.985271159819856
+    Node 4    -0.6672898099220689
+    Node 5    -0.8760696265425073
+    Node 6    -0.9436754449353644
+    Node 7    -0.5045824278148847
+    Node 8    -0.9703985296993822
+    Node 9    -0.6127146001021323
+    Node 10    -0.6706002350907303
+    Node 11    -0.7295953500540984
+    Node 12    -0.6939187290270409
+Class True
+    Input
+    Node 0
+Class False
+    Input
+    Node 1
+
+
+Time taken to build model: 0.16 seconds
+
+Time taken to perform cross-validation: 1.11 seconds
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances          61               84.7222 %
+Incorrectly Classified Instances        11               15.2778 %
+Kappa statistic                          0.6944
+Mean absolute error                      0.1378
+Root mean squared error                  0.3334
+Relative absolute error                 27.5136 %
+Root relative squared error             66.5667 %
+Total Number of Instances               72     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.861    0.167    0.838      0.861    0.849      0.695    0.954     0.962     True
+                 0.833    0.139    0.857      0.833    0.845      0.695    0.954     0.948     False
+Weighted Avg.    0.847    0.153    0.847      0.847    0.847      0.695    0.954     0.955     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 31  5 |  a = True
+  6 30 |  b = False
+

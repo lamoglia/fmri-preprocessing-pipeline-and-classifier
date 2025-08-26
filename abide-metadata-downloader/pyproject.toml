@@ -1,0 +1,10 @@
+[project]
+name = "abide-metadata-downloader"
+version = "0.1.0"
+description = "Organiza metadados dos dataset ABIDE I e II em um arquivo csv"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "jq>=1.10.0",
+    "pandas>=2.3.2",
+]

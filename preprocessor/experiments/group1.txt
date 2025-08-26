@@ -1,0 +1,2 @@
+ABIDE1,NYU,51159,CONTROL,12.81,M,118.0,2.0,ABIDE1_NYU_slice_order.txt,180,ABIDE1/raw/BIDS/NYU/sub-0051159/func/sub-0051159_task-rest_run-1_bold.nii.gz,ABIDE1/raw/BIDS/NYU/sub-0051159/anat/sub-0051159_T1w.nii.gz,30412800
+ABIDE2,NYU_2,29160,ASD,7.049,F,113.0,2.0,ABIDE2_NYU_2_slice_order.txt,180,ABIDE2/raw/ABIDEII-NYU_2/sub-29160/ses-1/func/sub-29160_ses-1_task-rest_run-1_bold.nii.gz,ABIDE2/raw/ABIDEII-NYU_2/sub-29160/ses-1/anat/sub-29160_ses-1_run-1_T1w.nii.gz,31334400

@@ -1,0 +1,11 @@
+services:
+
+  pipeline:
+    build:
+      context: .
+    volumes:
+      - E:/data/input:/data/in/fmri
+      - E:/data/input/slice_order_files:/data/in/slice_order_files
+      - F:/data/output/fsl/experiments_docker:/data/in/experiments
+      - F:/data/output/fsl/preprocessor/work:/data/out/work_dir
+      - F:/data/output/fsl/preprocessor/output:/data/out/output_dir

@@ -1,0 +1,42 @@
+[Sat Feb  1 03:55:11 -03 2025] Starting experiment experiments/v2_group1_dim68_fwhm0_resamp4_fixthr30_bbt10_maconcat_rm1.txt
+[Sat Feb  1 03:55:11 -03 2025] Experiment name ext_all_nyu_subjects_dim68_fwhm0_resamp4_fixthr30_bbt10_maconcat_rm1
+
+FSL version
+FSLDIR:  /home/lamoglia/fsl
+Version: 6.0.7.14
+[Sat Feb  1 03:55:12 -03 2025] Params:
+BET_FRACTIONAL_INTENSITY_TRESHOLD=0.3
+BET_VERTICAL_GRADIENT_TRESHOLD=0
+FEAT_SPATIAL_SMOOTING_FWHM=0
+FEAT_RESAMPLING_RESOLUTION_MM=4
+FEAT_DELETE_VOLUMES=3
+FEAT_BRAIN_BACKGROUND_THRESHOLD=10
+MELODIC_DIMENSIONALITY_REDUCTION=68
+MELODIC_APPROACH=concat
+SUBJECTS=/home/lamoglia/projects/fsl/experiments/group1.txt
+FIX_THRESHOLD_PARAMETER=30
+FIX_REGRESS_MOTION=1
+DR_PERMUTATIONS=5000
+DR_NORMALIZE=1
+
+[Sat Feb  1 03:55:12 -03 2025] Starting BET
+[Sat Feb  1 03:55:15 -03 2025] Finished BET
+[Sat Feb  1 03:55:15 -03 2025] BET output: /mnt/f/data/output/fsl/general-v3/bet/FIT-0.3_G-0
+
+[Sat Feb  1 03:55:15 -03 2025] Starting FEAT
+[Sat Feb  1 10:47:26 -03 2025] Finished FEAT
+[Sat Feb  1 10:47:26 -03 2025] FEAT output: /mnt/f/data/output/fsl/general-v3/feat/FWHM-0_RR-4_DV-3_BBT-10
+
+[Sat Feb  1 10:47:26 -03 2025] Starting FIX
+[Sat Feb  1 14:20:56 -03 2025] Finished FIX
+[Sat Feb  1 14:20:56 -03 2025] FEAT output (same as FEAT)
+
+[Sat Feb  1 14:20:56 -03 2025] Starting fsl_glm
+[Sat Feb  1 14:20:56 -03 2025] ORIGINAL_MELODIC_INSTANCE_OUTPUT_DIR: /mnt/f/data/output/fsl/general-v3/melodic/v2_group1_dim68_fwhm0_resamp4_fixthr30_bbt10_maconcat_rm1
+[Sat Feb  1 14:54:17 -03 2025] Finished fsl_glm
+[Sat Feb  1 14:54:17 -03 2025] fsl_glm output: /mnt/f/data/output/fsl/general-v3/dual-regression/ext_all_nyu_subjects_dim68_fwhm0_resamp4_fixthr30_bbt10_maconcat_rm1
+[Sat Feb  1 14:54:17 -03 2025] Copying fsl_glm output to experiment dir
+
+[Sat Feb  1 14:54:19 -03 2025] Finished experiment
+[Sat Feb  1 14:54:19 -03 2025] Syncing with s3...
+[Sat Feb  1 14:54:19 -03 2025] Done syncing with s3...

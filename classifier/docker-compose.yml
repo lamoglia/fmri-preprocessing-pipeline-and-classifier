@@ -1,0 +1,8 @@
+services:
+
+  training:
+    build:
+      context: .
+    volumes:
+      - F:/data/output/fsl/classifier/output:/data/out/output_dir
+      - F:/data/output/fsl/preprocessor/output:/data/in/preprocessed
